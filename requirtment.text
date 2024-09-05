@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+speechrcognition
+psycopg2_binary
+spotipy
